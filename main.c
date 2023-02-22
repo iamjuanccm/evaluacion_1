@@ -3,7 +3,7 @@
 Documentación
     Author: Juan Carlos Corona Márquez
     Date: 22/febrero/2023
-    Description: Descripción de los tipos de datos en C
+    Description: Cuestionario de compatibilidad para app de citas
     Param: [elección] / [números enteros del 1 al 10]
 */
 
