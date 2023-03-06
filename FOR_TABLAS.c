@@ -4,7 +4,7 @@ Documentación
     Author: Juan Carlos Corona Márquez
     Date: 5/marzo/2023
     Description: Programa que imprime las tablas de multiplicar del 1 al 10
-    mediante un ciclo FOR 
+    mediante un ciclo FOR anidado 
 */
 
 
